@@ -1,1 +1,1 @@
-# RLanding Page App
+# Landing Page App
